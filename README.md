@@ -28,3 +28,12 @@ These are my hand writern note..........hope this will help!!!
 <li>Supervised Learning:Classification and Regression</li>
 <li>Unsupervised Learning</li>
 </ol>
+  
+<h4>Part_4: contain<h4>
+<ol>
+<li>Applications of machine learning</li>
+<li>Deep learning</li>
+<li>Benefit,application of deep learning</li>
+<li>Specialiazed cases of model training</li>
+</ol>
+
