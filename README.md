@@ -36,4 +36,13 @@ These are my hand writern note..........hope this will help!!!
 <li>Benefit,application of deep learning</li>
 <li>Specialiazed cases of model training</li>
 </ol>
+  
+ <h4>Part_5: contain<h4>
+<ol>
+<li>Feature learning</li>
+<li>Anomaly detection</li>
+<li>Forecasting</li>
+<li>Types of forecasting</li>
+</ol>
+
 
